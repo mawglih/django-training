@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+}
+table, td, th {
+  border: 2px solid black
+}
+.djimage {
+  width: 400px;
+}
+.djimage>img {
+  width: 100%
+}
